@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+When I'm not online you can find me on the street 🚲🛣️
+
 <!--
 **Pixeloton/Pixeloton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
